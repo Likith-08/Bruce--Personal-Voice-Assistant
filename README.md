@@ -129,7 +129,7 @@ All created using CustomTkinter widgets.
 
 Step 1: Clone Repository
 
-git clone https://github.com/yourusername/Bruce-Personal-Voice-Assistant.git
+git clone : https://github.com/Likith-08/Bruce--Personal-Voice-Assistant
 cd Bruce-Personal-Voice-Assistant
 
 Step 2: Install Dependencies
